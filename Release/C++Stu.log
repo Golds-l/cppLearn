@@ -1,7 +1,4 @@
 ﻿  C++Stu.cpp
-  正在生成代码
-  2 of 11 functions (18.2%) were compiled, the rest were copied from previous compilation.
-    1 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  已完成代码的生成
-  C++Stu.vcxproj -> D:\C++Projects\C++Stu\Release\C++Stu.exe
+D:\C++Projects\C++Stu\C++Stu.cpp(27,12): error C2143: 语法错误: 缺少“]”(在“常数”的前面)
+D:\C++Projects\C++Stu\C++Stu.cpp(27,12): error C3260: “常数”: 跳过 lambda 主体之前的意外标记
+D:\C++Projects\C++Stu\C++Stu.cpp(30,1): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
